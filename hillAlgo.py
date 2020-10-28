@@ -176,7 +176,7 @@ def cipher_decryption():
 
     print("Decrypted Text: {}".format(decryp_text))
 
-
+########
 def main():
     choice = int(input("1. Encryption\n2. Decryption\nChoose(1,2): "))
     if choice == 1:
